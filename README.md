@@ -81,3 +81,7 @@ volatile std::uint32_t mazeResult = anlm::MazeMix(seed);
 * 자동화된 LLM 분석 교란 및 래빗홀 유도
 * 분석 환경 감지를 통한 가짜 풀이 경로 제공
 * 더미 연산을 통한 실제 검증 로직 발견 난이도 증가
+
+
+## Chat GPT (Sol 5.6 / 추론 수준: 높음)
+<img width="1622" height="878" alt="image" src="https://github.com/user-attachments/assets/5aaf9a30-6866-4294-a643-f4f89ed1ca33" />
