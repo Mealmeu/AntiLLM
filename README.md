@@ -85,3 +85,5 @@ volatile std::uint32_t mazeResult = anlm::MazeMix(seed);
 
 ## Chat GPT (Sol 5.6 / 추론 수준: 높음)
 <img width="1622" height="878" alt="image" src="https://github.com/user-attachments/assets/5aaf9a30-6866-4294-a643-f4f89ed1ca33" />
+
+- 실제 플래그: FLAG{github.com/mealmeu}
