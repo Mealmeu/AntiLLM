@@ -70,8 +70,7 @@ namespace anlm
         }
 
 #if defined(_M_X64)
-        const std::uint8_t* peb =
-            reinterpret_cast<const std::uint8_t*>(__readgsqword(0x60));
+        const std::uint8_t* peb = reinterpret_cast<const std::uint8_t*>(__readgsqword(0x60));
 
         if (peb != nullptr)
         {
